@@ -2,6 +2,6 @@
 // To run locally use 'mongodb://localhost/mern-crud' instead of process.env.DB
 
 module.exports = {
-  db :'mongodb://carlosmoyanor:mydatabase2@ds353457.mlab.com:53457/hotelapp',
+  db :'YOURDB',
   secretOrKey: 'secret'
 };
